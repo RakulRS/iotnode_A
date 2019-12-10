@@ -26,5 +26,6 @@ int main()
     cout << humidity.qget() << " ";
     cout << humidity.qget() << "\n";
 
+
     return 0;
 }
